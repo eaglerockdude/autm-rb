@@ -1,17 +1,9 @@
-# Autm-rb
+# ken mcfadden
 
-Another theme for jekyll.
+Personal notes on coding, some blogging, and a resume.
+Many thanks to Autm-rb(see references below) 
 
-## [DEMO][demo]
-
-## Customization
-
-Edit **_config.yml** and files inside **_data/** before using
-
-## Screens
-
-![](screenshots/home.png)
-![](screenshots/post.png)
+## [MYWEBSITE][mywebsite]
 
 ## Licensing
 
@@ -19,4 +11,4 @@ Edit **_config.yml** and files inside **_data/** before using
 
 [pages]: http://pages.github.com
 [fork]: https://github.com/railsr/autm-rb/fork
-[demo]: http://kirqe.github.io/autm-rb/
+[mywebsite]: http://kenmcfadden.com
