@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: ken mcfadden = {"Dad":"1", "Learner":"2", "Developer":"3"}
-header: Notes on Code
+header: (under development:currently transitioning from old format..check back :>))
 
 # for welcome page
 # to replace image go to index.html
