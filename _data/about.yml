@@ -1,21 +1,14 @@
 text: |
 
-## Ken McFadden / Coder
+## Introduction
 
-<span class="center">
-        <img style= "float: left;" class = "center" src ="http://www.gravatar.com/avatar/7d80ca4ea924dae867bfd78513b4b3b1.png" />
-    </span>
-
-<p>
-Hi.  I am Ken McFadden. I am developer specializing in Ruby/Ruby on Rails, Python, R(R language data science, Tableau, and also in the past an iSeries Developer.  Thank you for visiting.
-</p>
-<br/>
-<a href="mailto:rails@kenmcfadden.com">Like to email me? </a>
+Hi.  I am Ken McFadden. I am developer specializing in Ruby/Ruby on Rails, Python, R(R language data science, Tableau, and also in the past an iSeries Developer.
+Thank you for visiting.
 
 ## Services
 
 I currently offer Ruby/Ruby on Rails & IBM iSeries/DB2 consulting.  Soon I hope to be offering
-Python and R Language as well as Tableau.  Basically data analysis.
+Python and R Language as well as Tableau.  Basically data analysis with a programmer emphasis.
 
 * I do the job right and keep it simple.
 * Agile and TDD/BDD test driven and behavior driven development.
@@ -35,3 +28,6 @@ Python and R Language as well as Tableau.  Basically data analysis.
       it't probably not worth the time to debate or argue.
     * Consider the facts, choose a solution, and adjust as and if necessary. Move on as there
       is too much to do.
+      
+My github account:      
+[eaglerockdude](https://github.com/eaglerockdude)
