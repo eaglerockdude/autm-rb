@@ -1,31 +1,36 @@
 text: |
-
-## Introduction
-
-## Services
-
-I currently offer Ruby/Ruby on Rails & IBM iSeries/DB2 consulting.  Soon I hope to be offering
-Python and R Language as well as Tableau.  Basically data analysis with a programmer emphasis.
-
-* I do the job right and keep it simple.
-* Agile and TDD/BDD test driven and behavior driven development.
-* Project Management expertise.
-    * The plan is nothing, the planning is everything. (attributed to Dwight D Eisenhower during the planning for D-day the invasion of Normandy)
-    * When the map and the terrain differ, believe the terrain.
-    * There is no limit to what you can achieve if you don't care who gets the credit.
-* Useful Repertoire of Deep Thoughts.  Fun guy(relatively).
-    * "Hard work makes up for lack of brains..."
-
-## My Philosphy on programming
-    * There are many solutions to any given problem or task.
-    * Each person because of the individualy of each mind and spirit most 
-      likely will have a different way of doing things.
-    * Its's important to realize that after taking into consideration experience lever
-      etc of the person, all things being equal, their may not be a best way, or at least
-      it't probably not worth the time to debate or argue.
-    * Consider the facts, choose a solution, and adjust as and if necessary. Move on as there
-      is too much to do.
-      
-My github account:      
-[eaglerockdude](https://github.com/eaglerockdude)
- 
+  Write something about yourself here using markdown.
+  ## Lists
+  Unordered
+  + Create a list by starting a line with `+`, `-`, or `*`
+  + Sub-lists are made by indenting 2 spaces:
+    - Marker character change forces new list start:
+      * Ac tristique libero volutpat at
+      + Facilisis in pretium nisl aliquet
+      - Nulla volutpat aliquam velit
+  + Very easy!
+  Ordered
+  1. Lorem ipsum dolor sit amet
+  2. Consectetur adipiscing elit
+  3. Integer molestie lorem at massa
+  1. You can use sequential numbers...
+  1. ...or keep all the numbers as `1.`
+  Start numbering with offset:
+  57. foo
+  1. bar
+  ## Tables
+  | Option | Description |
+  | ------ | ----------- |
+  | data   | path to data files to supply the data that will be passed into templates. |
+  | engine | engine to be used for processing templates. Handlebars is the default. |
+  | ext    | extension to be used for dest files. |
+  Right aligned columns
+  | Option | Description |
+  | ------:| -----------:|
+  | data   | path to data files to supply the data that will be passed into templates. |
+  | engine | engine to be used for processing templates. Handlebars is the default. |
+  | ext    | extension to be used for dest files. |
+  ## Links
+  [link text](https://github.com)
+  [link with title](https://github.com/ "title text!")
+  Autoconverted link https://github.com (enable linkify to see)
