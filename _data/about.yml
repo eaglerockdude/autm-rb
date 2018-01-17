@@ -1,6 +1,16 @@
 text: |
-  Write something about yourself here using markdown.
-  ## Lists
+  Hello.  My name is Ken McFadden.  Born and raised in So. Cal I spend my youth in San Diego, but have called Los Angeles my home for the
+  past 25 years.  In my early career I coded on IBM Midrange systems from system/38 to as/400 to iseries, and I am an expert
+  in that.  Always open to a quick contract.
+  
+  I have moved to open source technologies and web.  My favorite coding environment and language is ruby and Ruby on Rails, but
+  recently have been picking up some Python/Tableau/R in relation to data science.  You never know when it could come in handy.
+  
+  On the front end I know HTML/CSS/Javascript/BootStrap and plan to do add some REACT to my vocabulary as we speak.
+  
+  This website is under construction meaning the junk below is placeholder for a .yml file.  I was having some issues with the github
+  blowing up on the parsing so I am moving down the page and building as I go.  You know how that goes. :>)
+  
   Unordered
   + Create a list by starting a line with `+`, `-`, or `*`
   + Sub-lists are made by indenting 2 spaces:
