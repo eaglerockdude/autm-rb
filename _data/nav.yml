@@ -1,4 +1,4 @@
-r# nav items in header
+# nav items in header
 items:
   - text: 'Blog'
     path: '/blog'
