@@ -1,4 +1,4 @@
-# nav items in header
+r# nav items in header
 items:
   - text: 'Blog'
     path: '/blog'
@@ -6,9 +6,9 @@ items:
     path: '/archive'
   - text: 'About'
     path: '/about'
-  - text: 'Python'
-    path: '/python'
-  - text: 'R language'
-    path: '/rlang'
+  - text: 'React'
+    path: '/react'
+  - text: 'Tableau'
+    path: '/tableau'
   - text: 'Ruby on Rails'
     path: '/ror'
