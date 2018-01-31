@@ -1,18 +1,22 @@
 text: |
-  Hello.  My name is Ken McFadden.  Born and raised in So. Cal I spent my formative years(always wanted to say that..can you say "tacos?" in San Diego, but have called Los Angeles my home for the
-  past 25 years.  In my early career I coded on IBM Midrange systems from system/38 to as/400 to iseries, and I am an expert in all flavors of the RPG language and Sql/DB2.
-  in that.  Always open to a quick contract.
-  
+  Hello.  My name is Ken McFadden.  Born and raised in So. Cal I spent my formative years(always wanted to say that..can you say "tacos?") in San Diego, but have called Los Angeles my home for the
+  past 25 years.  In my early career I coded on IBM Midrange systems from system/38 to as/400 to iseries, and I am an expert in all flavors of the RPG language and SQLRPG and DB/2 as well
+  as the operating system and CL programming language.  That machine is so old recruiters often call it a "mainframe" but back in the day
+  it was called midrange, not mainframe.  Mainframe is Cobol!  Anyway...I made a good living on that machine but like anything else
+  sooner or later companies want GUI and free software(free programmers too!) so it was time to expand.
+
   I have moved to open source technologies and web.  My favorite coding environment and language is ruby and Ruby on Rails, and
-  my secondary focus is javascript and React.  Front end comes in handy with anything on the web and even mobile these days. I have actually
-  studied more programming languages than I can remember(Perl,Java,Python,Nodejs etc) but you have to choose at some point.
-  
+  my secondary focus is javascript and React.  More so the javascript.  Front end comes in handy with anything on the web and even mobile these days. I have actually
+  studied more programming languages than I can remember(Perl,Java,Python,Nodejs etc) but you have to choose one at some point. Python is not bad
+  and in retrospect I should have chosen that, but that ship has sailed.  Maybe someday.  Story of my life.  Always guessing wrong. I have the
+  same luck with stocks. But...since pythons is used a lot for data analyis(numpy/panda/data series/dataframes and all that) in the final analysis its just
+  spreadsheets, so I figured cut out the middleman and just do Tableau.  I am working on it as a sidline.
   
   This website is under construction meaning the junk below is placeholder for a .yml file.  I am upgrading my Jekyll site 
   to a newer version as the old one just got to jambled.  You know how that goes. :>)
 
+  I offer iseries consulting and rOR freelance maintenance right now.  email me to get the ball rolling.
   
- 
   ## Links
   [mygithub](https://github.com/eaglerockdude)
   [eaglerockdude](https://github.com/ "The Eagle")
