@@ -10,6 +10,8 @@ items:
     path: '/react'
   - text: 'Tableau'
     path: '/tableau'
+  - text: 'NodeJS'
+    path: '/nodejs'
   - text: 'Archive'
     path: '/archive'
   - text: 'NodeJS'
