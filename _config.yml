@@ -5,8 +5,8 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: ken mcfadden = {"Dad":"1", "Learner":"2", "Developer":"3"}
-header: (under development:currently transitioning from old format..check back :>))
+title: ken mcfadden = {"Dad":"1", "Developer":"2", "Learner":"3"}
+header: This site is about programming(mostly) things I either do or am learning. (Under transition from another site)
 
 # for welcome page
 # to replace image go to index.html
