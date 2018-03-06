@@ -2,6 +2,7 @@
 layout: post
 title: rake rails:update
 category: upgrading
+tags: [rails]
 ---
 
 <div class="message">

@@ -2,6 +2,7 @@
 layout: post
 title: Rails with Postgres and MySql
 category: database
+tags: [rails]
 ---
 
 <div class="message">

@@ -2,6 +2,7 @@
 layout: post
 title: Why I like Rubymine
 category: IDE
+tags: [rails]
 ---
 
 <div class="message">

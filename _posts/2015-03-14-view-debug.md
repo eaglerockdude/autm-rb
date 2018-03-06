@@ -2,6 +2,7 @@
 layout: post
 title: rails view debug
 category: rails
+tags: [rails]
 ---
 
 <div class="message">

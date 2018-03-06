@@ -17,7 +17,7 @@ Christmas present wrapping paper trash, and at the same time reliving christmas 
 family. At this age I am past presents, at least the physical ones.  Been there done that.
 
 I have reached a decision point in my working life.  The type I development I have done for years is fading away. And I realized that
-in order to keep doing what I really enjoy as a job I need to re-tool.  I decided to move to Ruby and Ruby on Rails.  I started Tealeaf Academy
+in order to keep doing what I really enjoy as a job I need to re-tool.  I decided to move to Ruby and Ruby on Rails and NodeJS/Javascript.  I started Tealeaf Academy
 and I am not looking back.  My friends say "hey...Christmas is for kids!"..but I say...everyone enjoys Christmas.  Wish me luck.
 {% highlight ruby linenos %}
 def say_hello_rails
