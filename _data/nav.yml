@@ -16,3 +16,5 @@ items:
     path: '/react'
   - text: 'Archive'
     path: '/archive'
+  - text: 'Home'
+    path: '/index'
