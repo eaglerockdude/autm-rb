@@ -5,14 +5,14 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: ken mcfadden = {"Dad":"1", "Developer":"2", "Learner":"3"}
-header: This site is about programming(mostly) things I either do or am learning. (Under transition from another site)
+title: ken mcfadden = {"Dad":"1", "Learner":"2", "Programmer":"3"}
+header: This site is about programming(mostly) things I either do or am learning.
 
 # for welcome page
 # to replace image go to index.html
 email:
   address: "coder@kenmcfadden.com"
-  text: "contact me via email"
+  text: {"Contact":"Me"}
 
 # disqus comment
 disqus:

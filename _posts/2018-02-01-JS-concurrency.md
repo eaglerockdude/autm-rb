@@ -16,4 +16,6 @@ That is what the javascript event loop really gives us.  That advantage is that 
  In javascript what we are focused on is breaking down the tasks and scheduling
  them in the best order within context of coordinating concurrency.  
  
+ Javascript is single-threaded no matter what.  But we can simulate multi-threading.
+ 
  To coordinate concurrency we can use *callbacks*...and now *promises* via ES6..
