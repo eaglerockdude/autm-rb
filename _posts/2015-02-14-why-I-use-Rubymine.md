@@ -4,10 +4,7 @@ title: Why I like Rubymine
 category: IDE
 tags: [rails]
 ---
-
-<div class="message">
-  <cite> "I like tools and going to Home Depot to look at them.  Even buy unfortunately." </cite>
-</div>
+> "I like tools and going to Home Depot to look at them.  Even buy unfortunately." 
 
 Anyone who does Rails is constantly trying out new tools it looks like anyway.  I think the fear is...you will go to a job, and they will
 say.."we only use VIM here!"...or EMACS...well I tried them..and I hate them...but that said I did want to try one of the popular text

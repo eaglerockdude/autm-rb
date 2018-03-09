@@ -1,12 +1,10 @@
 ---
 layout: post
-title: github pages with iPage
+title: How to set up your github blog with your domain host.
 category: tools
 ---
 
-<div class="message">
-  <cite> "As Strother Martin once said in cool hand luke...What we've got here...is a failure to communicate..."</cite>
-</div>
+> "As Strother Martin once said in cool hand luke...What we've got here...is a failure to communicate..."
 
 ## So u wanna free(relatively) blog
 

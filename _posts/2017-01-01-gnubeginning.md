@@ -4,10 +4,7 @@ title: The origin of open source
 category: notunix
 ---
 
-<div class="message">
-  <cite>"I am mad as hell, and I'm not gonna take it anymore!" </cite>
-</div>
-
+>"I am mad as hell, and I'm not gonna take it anymore!" 
 
  From CSvax:pur-ee:inuxc!ixn5c!ihnp4!houxm!mhuxi!eagle!mit-vax!miteddie!RMS@MIT-OZ   
  Newsgroups: net.unix-wizards,net.usoft  

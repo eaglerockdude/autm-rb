@@ -5,9 +5,7 @@ category: rails
 tags: [rails]
 ---
 
-<div class="message">
-  <cite> "I would really like to see you..really..." </cite>
-</div>
+> "I would really like to see you..really..." 
 
 It's fairly easy to debug controllers.  Use you IDE debugger, or PRY, and set your debug. But how about in views, for
 example the variables being rendered via ERB or HAML or whatever.

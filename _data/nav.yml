@@ -18,3 +18,5 @@ items:
     path: '/archive'
   - text: 'Home'
     path: '/index'
+  - text: 'iSeries'
+    path: '/iseries'
