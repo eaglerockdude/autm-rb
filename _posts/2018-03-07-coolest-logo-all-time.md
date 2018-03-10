@@ -12,3 +12,4 @@ node.js for I/O polling mechanisms.   It has to do with the event loop and thing
 
  ![The coool-ist log of all time](/assets/img/libuv.png)
 
+## Some notes on libuv
