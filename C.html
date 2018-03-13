@@ -16,7 +16,7 @@ layout: default
 
 <ul>
  {% for post in posts %}
- {% if post.tags contains 'C language' %}
+ {% if post.tags contains 'C' %}
  Posts by Tag  : {{ t | downcase }}
  <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
