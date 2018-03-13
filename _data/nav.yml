@@ -14,6 +14,8 @@ items:
     path: '/tableau'
   - text: 'iSeries'
     path: '/iseries'
+  - text: 'C'
+    path: '/C'
   - text: 'Blog'
     path: '/archive'
   - text: 'Home'

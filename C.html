@@ -1,0 +1,33 @@
+---
+title: I C you.
+permalink: "C/index.html"
+layout: default
+---
+
+<Main class="">
+<h1 class="std_hdg_color">The C Programming Language</h1>
+    <p>I have come across references to The C programming language many times in my career...in the following sense..I see constructs in java or C# or javascript or python or ruby or perl...Swift/objective C...just about any language..and they have the same keywords in C..and I was always curious...we have all these different languages..but they really cannot seem to get away from the grandfather of them all.  If there was no C where would we be?</p>
+     <p>In my study of the NODEJS event loop I was looking at some LIBUV code, which provides the event loop, and I thought..hey...this stuff is really useful...might as well pick up some C...and now that I have..I am SHOCKED about how many concepts have been borrowed from the language.</p>
+     <p>Useful tid-bits I find in the language which I think are pretty useful I will file here.  Or just anything I find interesting, which is just about everything with that language.  Maybe I should have cut out the middle man and just become a C programmer.</p>
+</Main>
+{% for tag in site.tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+
+<ul>
+ {% for post in posts %}
+ {% if post.tags contains 'C language' %}
+ Posts by Tag  : {{ t | downcase }}
+ <li>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+ </li>
+ {% endif %}
+ {% endfor %}
+</ul>
+{% endfor %}
+
+
+
+
+
