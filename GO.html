@@ -2,14 +2,31 @@
 title: I C you.
 permalink: "C/index.html"
 layout: default
-theman: theman.gif
+gopher: wglasses2.jpg
 ---
 
 <Main class="">
+ <p>This section of my site will keep notes and observations on the C programming language and GO.  The syntax is fairly similar.  Golang is particular is pretty interesting in that is it built from the ground up to allow multi-core CPU applications taking advantage of modern hardware.  Some other interesting things about it are:</p>
+ <img class="profile-image" src="{{page.gopher}}" >
+ <h1 class="std_hdg_color">Go-Go Gophers</h1>
+ <ul>
+  <li>It has a built in package system</li>
+  <li>It has a built in tools for testing, documentation and a code-formatter.</li>
+  <li>Natively supports multiple function return values with out some type of hacking</li>
+  <li>Concurrency with goroutines and channels</li>
+  <li>Concurrency with goroutines and channels</li>
+  <li>GO has a built in webserver since it does not need one to do the multi-threading among other things.</li>
+ </ul>
 <h1 class="std_hdg_color">The C Programming Language</h1>
     <p>I have come across references to The C programming language many times in my career...in the following sense..I see constructs in java or C# or javascript or python or ruby or perl...Swift/objective C...just about any language..and they have the same keywords in C..and I was always curious...we have all these different languages..but they really cannot seem to get away from the grandfather of them all.  If there was no C where would we be?</p>
      <p>In my study of the NODEJS event loop I was looking at some LIBUV code, which provides the event loop, and I thought..hey...this stuff is really useful...might as well pick up some C...and now that I have..I am SHOCKED about how many concepts have been borrowed from the language.</p>
      <p>Useful tid-bits I find in the language which I think are pretty useful I will file here.  Or just anything I find interesting, which is just about everything with that language.  Maybe I should have cut out the middle man and just become a C programmer.</p>
+ <h1 class="std_hdg_color">The GO(golang) Programming Language</h1>
+<p>GO was created by a few of the guys who created C as sort of a replacement.  At Google Robert Griesemer, Rob Pike, and Ken Thompson were attempting to create a
+ language  for  modern  systems  programming
+ that  solved  real
+ -world  problems  they
+ encountered while building large systems at scale.</p>
 </Main>
 {% for tag in site.tags %}
 {% assign t = tag | first %}
