@@ -5,7 +5,19 @@ layout: default
 gopher: golang.png 
 ---
 <Main class="">
-    <p>This section of my site will contain coding notes and observations on the C programming language and Golang(Go). GO is mainly my focus but I like to sprinkle some 'C' in there. I find that looking and coding C exercises the muscles I have that seem to get weak from sitting on the ROR couch all day. Kinda the same with GO although with Google behind it who knows what the future has.</p>
+    <p>This section of my site will contain coding notes and observations on the C programming language and Golang(Go). C is mainly my focus but I like to sprinkle some 'Go' in there dependent on time. I find that looking and coding C exercises the muscles I have that seem to get weak from sitting on the ROR couch all day. Kinda the same with GO although with Google behind it who knows what the future has.</p>
+
+    <h1 class="std_hdg_color">The C Programming Language</h1>
+    <p>I have come across references to The C programming language many times in my career...in the following sense..I see constructs in java or C# or javascript or python or ruby or perl...Swift/objective C...just about any language..and they all show their roots in C.  If fact even the operating systems of the IBM platforms i used to work on were written in C/C++.</p>
+    
+    <img src="/assets/img/inventc.jpg">
+
+    <h1 class="std_hdg_color">The GO(golang) Programming Language</h1>
+    <p>GO was created by a few of the guys who created C as sort of a replacement.  At Google Robert Griesemer, Rob Pike, and Ken Thompson were attempting to create a
+        language  for  modern  systems  programming
+        that  solved  real
+        -world  problems  they
+        encountered while building large systems at scale.</p>
 
     <p>Some interesting things about GO:</p>
 
@@ -18,17 +30,6 @@ gopher: golang.png
         <li>Concurrency with goroutines and channels</li>
         <li>GO has a built in webserver since it does not need one to do the multi-threading among other things.</li>
     </ul>
-    <h1 class="std_hdg_color">The C Programming Language</h1>
-    <p>I have come across references to The C programming language many times in my career...in the following sense..I see constructs in java or C# or javascript or python or ruby or perl...Swift/objective C...just about any language..and they all show their roots in C.  If fact even the operating systems of the IBM platforms i used to work on were written in C/C++.</p>
-    
-    <img src="/assets/img/inventc.jpg">
-
-    <h1 class="std_hdg_color">The GO(golang) Programming Language</h1>
-    <p>GO was created by a few of the guys who created C as sort of a replacement.  At Google Robert Griesemer, Rob Pike, and Ken Thompson were attempting to create a
-        language  for  modern  systems  programming
-        that  solved  real
-        -world  problems  they
-        encountered while building large systems at scale.</p>
 </Main>
 {% for tag in site.tags %}
 {% assign t = tag | first %}
