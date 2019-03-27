@@ -37,7 +37,7 @@ gopher: golang.png
 
 <ul>
     {% for post in posts %}
-    {% if post.tags contains 'C' %}
+    {% if post.tags contains 'Go' %}
     Posts by Tag  : {{ t | downcase }}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>

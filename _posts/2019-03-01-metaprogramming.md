@@ -1,16 +1,23 @@
 ---
 layout: post
-title: rebuildingrails
-tags: [rails]
+title: metaprogramming
+tags: [ruby]
 ---
 
-> "Build it and they will come....Field of Dreams.."
-## Notes on rebuilding rails study
+> "As Ricky Ricardo once said to Lucy...I gotta go to a meta...(meeting).."
+## Notes on meta-programming
 
-This post contains self notes groked from the rebuilding rails book.  Not sure at the beginning how useful it will be but that you can only tell at the end..I guess as long as you are writing code how can u go wrong.
+Notes on metaprogramming.
 
-- This excercise builds a rails application as a GEM which first of all is cool in itself as you can see how a GEM is self contained and documenting, and reusable.
--   $ bundler gem rulers: 
+- Ruby class are just runnable code, meaning the interpreter will run them
+even it not instantiated.
+- classes can be opened anytime and changed or added to.
+- in ruby there is NO connection between instances and instance variables.  Meaning that if you don't use an instance variable, say in a method in an instantiated class, it won't contain the variable.  But of course it can spring up of you use it.
+
+- an object’s instance variables live in the object itself, and
+an object’s methods live in the object’s class. That’s why objects of the same
+class share methods but don’t share instance variables.
+
      
    
 
